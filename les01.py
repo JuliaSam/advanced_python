@@ -1,6 +1,6 @@
-development_bytes = 'разработка'.encode('utf-8')
-socket_bytes = 'сокет'.encode('utf-8')
-decorator_bytes = 'декоратор'.encode('utf-8')
+development_bytes = 'СЂР°Р·СЂР°Р±РѕС‚РєР°'.encode('utf-8')
+socket_bytes = 'СЃРѕРєРµС‚'.encode('utf-8')
+decorator_bytes = 'РґРµРєРѕСЂР°С‚РѕСЂ'.encode('utf-8')
 
 print(development_bytes)
 print(socket_bytes)
@@ -15,4 +15,4 @@ print(decorator_str)
 
 #development_latin = development_str.encode('latin-1')
 #print(development_latin)
-#русский язык нельзя кодировать под latin-1
+#СЂСѓСЃСЃРєРёР№ СЏР·С‹Рє РЅРµР»СЊР·СЏ РєРѕРґРёСЂРѕРІР°С‚СЊ РїРѕРґ latin-1
